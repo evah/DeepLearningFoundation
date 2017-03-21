@@ -3,5 +3,9 @@ Udacity DeepLearningFoundation Nanodegree
 
 # Projects
 ## Project 1 
-* [jupyter notebook](./dlnd-your-first-neural-network.ipynb)
-* [html version](./dlnd-your-first-neural-network.html) 
+* [jupyter notebook](./project1/dlnd-your-first-neural-network.ipynb)
+* [html version](./project1/dlnd-your-first-neural-network.html) 
+
+## Project 2
+* [jupyter notebook](./project2/dlnd_image_classification.ipynb)
+* [html version](./project2/dlnd_image_classification.html)
