@@ -9,3 +9,7 @@ Udacity DeepLearningFoundation Nanodegree
 ## Project 2
 * [jupyter notebook](./project2/dlnd_image_classification.ipynb)
 * [html version](./project2/dlnd_image_classification.html)
+
+## Project 3
+* [jupyter notebook](./project3/dlnd_tv_script_generation.ipynb)
+* [html version](./project3/dlnd_tv_script_generation.html)
