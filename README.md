@@ -13,3 +13,7 @@ Udacity DeepLearningFoundation Nanodegree
 ## Project 3
 * [jupyter notebook](./project3/dlnd_tv_script_generation.ipynb)
 * [html version](./project3/dlnd_tv_script_generation.html)
+
+## Project 4
+* [jupyter notebook](./project4/dlnd_language_translation.ipynb)
+* [html_version](./project4/dlnd_language_translation.html)    
