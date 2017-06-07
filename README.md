@@ -17,3 +17,7 @@ Udacity DeepLearningFoundation Nanodegree
 ## Project 4
 * [jupyter notebook](./project4/dlnd_language_translation.ipynb)
 * [html_version](./project4/dlnd_language_translation.html)    
+
+## Project 5
+* [jupyter notebook](./project5/dlnd_face_generation.ipynb)
+* [html_version](./project5/dlnd_face_generation.html)    
